@@ -84,6 +84,16 @@ nav li {
     display: none;
 }
 
+
+@media (min-width: 768px) {
+    
+    .navbar-2
+    {
+        display: none;
+    }
+
+}
+
 @media (max-width: 768px) {
 
     .navbar
@@ -95,4 +105,5 @@ nav li {
     {
         display: block;
     }
+
 }
